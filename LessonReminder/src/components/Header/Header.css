@@ -1,0 +1,111 @@
+.headerdiv{
+    color: white;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    background: linear-gradient(to right, #09010d, #e3d9d7);
+}
+.baslik{
+    padding-bottom: 0.6rem;
+}
+
+.lesson{
+    /* border: 1px solid black; */
+    color: white;
+    font-size: 2.5rem;
+    margin-left: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    text-align: center;
+    margin-top: 1rem;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 700;
+    word-spacing: 0rem;
+    letter-spacing: 0.1rem;
+    text-shadow:
+    0 0 5px #fff, 
+    0 0 10px #fff,
+    0 0 15px #0073e6, 
+    0 0 20px #0073e6, 
+    0 0 25px #0073e6, 
+    0 0 30px #0073e6, 
+    0 0 35px #0073e6;
+    /* background-color: black; */
+}
+body{
+   
+    background: linear-gradient(to right, #000000, #e7dfdf);
+}
+
+img{
+    width: 5rem;
+    height: 5em;
+    /* margin: 1rem; */
+    /* border: 2px solid red; */
+}
+.images{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    /* border: 2px solid black; */
+   width: 20rem;
+   height: 7rem;
+   
+   box-shadow:
+   0 0 5px #fff, 
+   0 0 10px #fff,
+   0 0 15px #0073e6, 
+   0 0 20px #0073e6, 
+   0 0 25px #0073e6, 
+   0 0 30px #0073e6, 
+   0 0 35px #0073e6;
+}
+.container{
+    margin: 1.2rem;
+    padding: 1.2rem;
+    /* border: 2px solid red; */
+    background: linear-gradient(to right, #000000, #bcc5c7);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+}
+.NameHour{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-left: 0.7rem;
+    font-weight: 700;
+    color:#f4a460 ;
+
+}
+.lessonname{
+    font-weight: 700;
+}
+
+span{
+    color: white;
+}
+.logo{
+    width: 4rem;
+    height: 4rem;
+}
+@media screen and (max-width: 359px) {
+
+   .lesson{
+    font-size: 2rem;
+    }
+    .NameHour{
+        font-size: 0.7rem;
+    }
+
+    .baslik{
+        font-size: 2rem;
+    }
+   
+
+
+}
+  
