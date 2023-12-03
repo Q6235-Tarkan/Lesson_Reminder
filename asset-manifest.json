@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Lesson_Reminder/static/css/main.b0ecc67c.css",
+    "main.js": "/Lesson_Reminder/static/js/main.23b57dea.js",
+    "static/media/Clarusway_Logo.png": "/Lesson_Reminder/static/media/Clarusway_Logo.70ed019bb652c6f350b6.png",
+    "index.html": "/Lesson_Reminder/index.html",
+    "main.b0ecc67c.css.map": "/Lesson_Reminder/static/css/main.b0ecc67c.css.map",
+    "main.23b57dea.js.map": "/Lesson_Reminder/static/js/main.23b57dea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0ecc67c.css",
+    "static/js/main.23b57dea.js"
+  ]
+}
